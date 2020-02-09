@@ -1,0 +1,25 @@
+/*Classes*/
+.d-flex { display:flex; justify-content:space-between;align-items:center; }
+.container {width:1170px; margin:0 auto;}
+/*End Clases*/
+.div-header {width:1170px; margin:0 auto;}
+.nav-li {margin-right:20px;}
+.nav-a {font-size: 20px; color:black;}
+.banner img {width: 1170px;}
+.banner { position: relative; }
+.white-box {position: absolute; width:450px; height:200px; background-color:#fff; bottom:0; right:0;}
+.h1-font {font-size: 20px; font-family:bpg nino mtavruli; margin-top:15px;}
+.p-white-box { margin-top:10px; margin-left:10px; }
+.arrow img {width:88px; position: absolute; bottom:5px; left:5px;}
+.arrow-text {bottom:7px; left:110px; position: absolute;}
+/* NEWS SECTION START*/
+.news-box {padding:40px 0;}
+.img-size {width: 300px; display:block; margin-top:20px; position: relative;}
+.img-size img {width:300px;}
+.title {margin:15px 0; font-family:bpg nino mtavruli; font-size:20px;}
+.title2 {font-family:bpg nino mtavruli; font-size:15px;}
+.pop-title {font-family:bpg nino mtavruli; font-size: 25px; margin-bottom:15px;}
+.More { display:flex; margin-top:5px; align-items:flex-end;}
+/*END NEWS */
+/*START 2nd NEWS SECTION*/
+.load-more {display:flex; justify-content: space-around; font-size: 20px}
